@@ -4,9 +4,9 @@
 - 最近在学习英语，学习区块链安全，漏洞挖掘。
 - 喜欢与众不同的人事物，热衷于探索和冒险。
 
-- Former CTF player, former Tencent Group staff,former Hearthstone player
-- Learning English , learning smart-contract security , bug bounty
-- Like interesting things, keen on exploration
+- Former CTF player, Former Tencent Group staff, Former HearthStone player
+- Learning English, Learning smart-contract security, Doing bug bounty
+- Like interesting things, Keep on exploration
 
 
 
